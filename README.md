@@ -8,7 +8,7 @@ One of my earliest memories in the realm of technology, back when I was around 1
 - 🤔 I’m looking for help with being part of DevOps Community
 - 💬 Ask me about Web Development and DevOps culture
 - 📫 How to reach me:
-  **[Linkedin]([https://instagram.com/codewithghazi](https://www.linkedin.com/in/gabriel-nigro-garbelini/))**
+  **[Linkedin](https://www.linkedin.com/in/gabriel-nigro-garbelini/)**
 - 😄 Pronouns:
   He/Him
   
