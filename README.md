@@ -2,7 +2,7 @@
 
 One of my earliest memories in the realm of technology, back when I was around 12 years old, is creating LAN simulations via Hamachi to play on the same server as my friends. This paved the way for me to leverage game engines in the creation of MMORPGs, applying mathematical and computational concepts to bring gaming experiences. That's where my journey into the world of IT began. 🚀
 
-- 🔭 I’m currently working as Tech Lead at Odontoprev
+- 🔭 I’m currently working as IT Consultant at Telefónica Vivo
 - 🌱 I’m currently learning Cloud and IaC
 - 👯 I’m looking to collaborate on open source projects about charity
 - 🤔 I’m looking for help with being part of DevOps Community
